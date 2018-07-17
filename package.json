@@ -1,0 +1,27 @@
+{
+  "name": "pdf-form-utils",
+  "version": "1.0.0",
+  "description": "Work with PDF forms in Node.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uptickr/pdf-form-utils.git"
+  },
+  "keywords": [
+    "pdf",
+    "pdftk",
+    "form",
+    "forms",
+    "fdf",
+    "fill"
+  ],
+  "author": "Vashistha Iyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uptickr/pdf-form-utils/issues"
+  },
+  "homepage": "https://github.com/uptickr/pdf-form-utils#readme",
+  "dependencies": {
+    "iconv-lite": "^0.4.23"
+  }
+}
