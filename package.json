@@ -1,7 +1,7 @@
 {
   "name": "pdf-form-utils",
   "version": "1.0.1",
-  "description": "Work with PDF forms in Node.js",
+  "description": "Fill PDF forms in Node.js",
   "main": "index.js",
   "repository": {
     "type": "git",
