@@ -4,8 +4,9 @@ A node.js toolkit that wraps [PDFTk](http://www.pdflabs.com/tools/pdftk-the-pdf-
 
 [![NPM](https://nodei.co/npm/pdf-form-utils.png)](https://nodei.co/npm/pdf-form-utils/)
 
-## Dependencies
-You must have ```pdftk``` binary in your $PATH
+## Environment
+- You must have ```pdftk``` binary in your $PATH
+- Requires Node.js >= 8.11.0
 
 ## Usage example of reading form Fields
 

@@ -8,7 +8,8 @@
     "url": "git+https://github.com/uptickr/pdf-form-utils.git"
   },
   "engines": {
-    "node": ">=8.11.0"
+    "node": ">=8.11.0",
+    "pdftk": ">=2.02"
   },
   "keywords": [
     "pdf",
