@@ -1,6 +1,6 @@
 {
   "name": "pdf-form-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Work with PDF forms in Node.js",
   "main": "index.js",
   "repository": {
@@ -9,11 +9,10 @@
   },
   "keywords": [
     "pdf",
-    "pdftk",
-    "form",
-    "forms",
     "fdf",
-    "fill"
+    "pdftk",
+    "forms",
+    "fill_form"
   ],
   "author": "Vashistha Iyer",
   "license": "MIT",

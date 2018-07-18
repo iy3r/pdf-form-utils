@@ -1,12 +1,12 @@
 # PDF Form Utils for Node.js
 
-A node.js toolkit that wraps the [PDFTk](http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) to expose two essential utilities - generating a list of form fields in a pdf form and filling a pdf form using a JS object.
+A node.js toolkit that wraps [PDFTk](http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) to expose two essential utilities - generating a list of form fields in a pdf form and filling a pdf form using a JS object.
 
 ## Installation
 ```npm install --save pdf-form-utils```
 
 ## Dependencies
-You need to have the ```pdftk``` binary in your PATH
+You must have ```pdftk``` binary in your $PATH
 
 ## Usage example of reading form Fields
 
