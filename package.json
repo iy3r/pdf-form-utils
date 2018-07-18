@@ -1,11 +1,14 @@
 {
   "name": "pdf-form-utils",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Fill PDF forms in Node.js",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/uptickr/pdf-form-utils.git"
+  },
+  "engines": {
+    "node": ">=8.11.3"
   },
   "keywords": [
     "pdf",
